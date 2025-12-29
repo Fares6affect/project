@@ -58,7 +58,6 @@
 
     .header_content {
         text-align: center;
-        background-color: burlywood;
         margin: 0 auto 0 auto;
     }
 
@@ -106,7 +105,6 @@
 
 
     .header_stats {
-        background-color: navy;
         margin: 100px auto 0 auto;
         overflow: visible;
         position: relative;
@@ -172,7 +170,6 @@
         color: whitesmoke;
     }
     .header-block{
-        background-color:black;
         display:flex;
         flex-direction:row;
     }
@@ -191,7 +188,6 @@
         overflow: visible;
         display: flex;
         flex-direction: column;
-        background-color: dimgrey;
         width: 100%;
         gap: 10px;
     }
@@ -248,7 +244,6 @@
     #services {
         margin: 225px 0 0 0;
         width: 100%;
-        background-color: aquamarine;
         justify-content: center;
     }
 
@@ -256,7 +251,6 @@
         width: 1230px;
         padding: 20px;
         margin: 30px auto;
-        background-color: forestgreen;
     }
 
         .services_header div {
@@ -303,7 +297,6 @@
         font-weight: 700;
         line-height: 100%;
         letter-spacing: 0;
-        background-color: red;
         font-size: 42px;
         width: auto;
         height: 153px;
@@ -312,7 +305,6 @@
     .section-header_subtitle {
         color: rgba(5,12,51,1);
         margin-top: 18px;
-        background-color: antiquewhite;
         font-size: 16px;
         line-height: 22px;
         letter-spacing: 0;
@@ -332,11 +324,9 @@
     .service-card {
         height: 220px;
         width: 182px;
-        background-color: palevioletred;
     }
 
         .service-card p {
-            background-color: burlywood;
             margin-top: 25px;
             width: 182px;
             height: 66px;
@@ -369,7 +359,6 @@
     #support {
         width: 100%;
         margin: 110px 0 0 0;
-        background-color: antiquewhite;
         position: relative;
         height: 2650px;
     }
@@ -425,7 +414,6 @@
         height: 200px;
         box-sizing: border-box;
         width: 450px;
-        background-color: palevioletred;
         border-radius: 5px 5px 0 5px;
         box-shadow: 0 -20px 40px rgba(0,0,0,0.1);
     }
@@ -441,7 +429,6 @@
         display: block;
         width: 232px;
         height: 15px;
-        background-color: cornflowerblue;
     }
 
     .support-card_title {
@@ -453,7 +440,6 @@
         font-size: 18px;
         line-height: 100%;
         letter-spacing: 0;
-        background-color: aquamarine;
     }
 
     .support-card_text {
@@ -466,7 +452,6 @@
         font-size: 18px;
         line-height: 22px;
         letter-spacing: 0;
-        background-color: blueviolet;
     }
 
     .support-card img {
@@ -497,7 +482,6 @@
     }
 
     .support_bottom-title {
-        background-color: red;
         width: 480px;
         height: 102px;
         font-weight: 700;
@@ -512,7 +496,6 @@
         width: 450px;
         gap: 20px;
         height: 300px;
-        background-color: aquamarine;
         display: flex;
         flex-direction: column;
     }
@@ -532,7 +515,6 @@
         line-height: 22px;
         width: 257px;
         height: 88px;
-        background-color: rebeccapurple;
     }
 
     .support_dark-content {
@@ -542,7 +524,6 @@
     }
 
     .support_bottom-title {
-        background-color: red;
         width: 480px;
         height: 102px;
         font-weight: 700;
@@ -568,7 +549,6 @@
         letter-spacing: 0;
         width: 257px;
         height: 88px;
-        background-color: rebeccapurple;
     }
 
         .support_item p {
@@ -590,7 +570,6 @@
         overflow: hidden;
         top: 2300px;
         left: 0px;
-        background-color: red;
     }
 
 
@@ -2596,4 +2575,5 @@
             right: 350px;
         }
 }
+
 

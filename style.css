@@ -8,7 +8,7 @@
 /*html {
     scroll-behavior: smooth;
 }*/
-@media screen and (max-width:769px) {
+@media screen and (max-width:600px) {
     * {
         box-sizing: border-box;
         max-width: 100%;
@@ -2054,6 +2054,7 @@
     }
     .custom-line {
         border-color:grey;
+        heigth:0px;
         border: 2px solid;
         margin: 0 0 20px 0;
     }
@@ -2558,6 +2559,7 @@
             right: 350px;
         }
 }
+
 
 
 

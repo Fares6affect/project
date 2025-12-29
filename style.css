@@ -685,7 +685,6 @@
             justify-content: center;
             border: 2px solid red;
             color: red;
-            margin-top:30px;
         }
 
             .plan-card_a div:hover {
@@ -1110,6 +1109,7 @@
 
 
     .company {
+        overflow:visible;
         height: 477px;
         display: flex;
         flex-direction: column;
@@ -1140,6 +1140,7 @@
     }
 
     .company_grid1 {
+        overflow:visible;
         position: relative;
         right: 145px;
         width: 100%;
@@ -1148,6 +1149,7 @@
     }
 
     .company_grid2 {
+        overflow:visible;
         height: 155px;
         width: 100%;
     }
@@ -1157,6 +1159,7 @@
         overflow: visible;
         cursor: grab;
         user-select: none;
+        overflow:visible;
     }
 
         .drag-gallery:active {
@@ -1164,6 +1167,7 @@
         }
 
     .gallery-track {
+        overflow:visible;
         display: flex;
         gap: 20px;
         width: max-content;
@@ -2554,6 +2558,7 @@
             right: 350px;
         }
 }
+
 
 
 

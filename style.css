@@ -12,7 +12,6 @@
     * {
         box-sizing: border-box;
         max-width: 100%;
-        width:600px;
     }
     video {
         width: 100%;
@@ -481,6 +480,7 @@
     }
 
     .support_bottom-title {
+        overflow:visible;
         width: 480px;
         height: 102px;
         font-weight: 700;
@@ -2560,6 +2560,7 @@
             right: 350px;
         }
 }
+
 
 
 

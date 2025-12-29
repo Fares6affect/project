@@ -1001,6 +1001,7 @@ html {
         z-index: 1;
         position:absolute;
         left:100px;
+        top:0px;
         display: flex;
         flex-direction: column;
         align-content: center;
@@ -2558,6 +2559,7 @@ html {
             right: 350px;
         }
 }
+
 
 
 

@@ -1843,6 +1843,7 @@
         gap: 5px;
     }
     .support-card {
+        overflow: visible;
         position: relative;
         overflow: clip;
         height: 292px;
@@ -1852,17 +1853,20 @@
         box-shadow: 0 -20px 40px rgba(0,0,0,0.1);
     }
     .support-card1234, .support-card5678 {
+        overflow: visible;
         display: flex;
         flex-direction: row;
         gap:5px;
     }
     .support-card12, .support-card56, .support-card34, .support-card78 {
+        overflow: visible;
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
         gap:5px;
     }
     .support-card_number{
+        overflow: visible;
         color:rgba(5,12,51,1);
         line-height:100%;
         letter-spacing:0;
@@ -1898,6 +1902,7 @@
         letter-spacing: 0;
     }
     .support-card img {
+        overflow: visible;
         position: absolute;
         left: 208px;
         top:212px;
@@ -2591,3 +2596,4 @@
             right: 350px;
         }
 }
+

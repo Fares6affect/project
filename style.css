@@ -986,7 +986,6 @@ html {
     .review-card.active {
         opacity: 1;
         visibility: visible;
-        position: relative;
     }
 
 
@@ -2559,6 +2558,7 @@ html {
             right: 350px;
         }
 }
+
 
 
 

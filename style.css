@@ -179,6 +179,7 @@
         position:relative;
     }
     .dropdown-menu {
+        background-color:grey;
         visibility:hidden;
         bottom:40px;
         left:0px;
@@ -546,11 +547,13 @@
         letter-spacing: 0;
         width: 257px;
         height: 88px;
+        overflow:visible;
     }
 
         .support_item p {
             opacity: 70%;
             font-size: 16px;
+            overflow:visible;
         }
 
     .support_list {
@@ -690,7 +693,7 @@
 
     .plan-card_feature {
         opacity: 70%;
-        margin: 10px 0;
+        margin: 20px 0;
     }
 
     .custom-line {
@@ -2549,6 +2552,7 @@
             right: 350px;
         }
 }
+
 
 
 

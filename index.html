@@ -927,7 +927,8 @@
                                    placeholder="Ваше имя"
                                    required
                                    minlength="2"
-                                   maxlength="50">
+                                   maxlength="50"
+                                    required>
                         </label>
                         <label for="phone" class="form-label">
                             <input type="tel"
@@ -935,15 +936,15 @@
                                    name="phone"
                                    class="form-input"
                                    placeholder="Телефон"
-                                   required
-                                   pattern="">
+                                   required>
                         </label>
                         <label for="email" class="form-label">
                             <input type="email"
                                    id="email"
                                    name="email"
                                    class="form-input"
-                                   placeholder="E-mail">
+                                   placeholder="E-mail"
+                                required>
                         </label>
                         <label for="message" class="form-label">
                             <textarea id="message"
@@ -951,7 +952,8 @@
                                       class="form-textarea"
                                       placeholder="Ваш комментарий"
                                       rows="5"
-                                      maxlength="1000"></textarea>
+                                      maxlength="1000"
+                                required></textarea>
                         </label>
                         <div>
 
@@ -960,7 +962,7 @@
                             </label><br />
                             <p class="checkp">Отправляя заявку, я даю согласие на обработку своих персональных данных</p>
                         </div>
-                        <a class="form_a_div"><div>Оставить заявку!</div></a>
+                        <button class="form_a_div"><div>Оставить заявку!</div></button>
                     </form>
                 </div>
             </section>
@@ -974,6 +976,7 @@
     </body>
 
 </html>
+
 
 
 

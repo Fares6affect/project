@@ -2040,7 +2040,7 @@
     }
     .plan-card_feature {
         opacity:70%;
-        margin: 21px 0;
+        margin: 10px 0;
     }
     .custom-line {
         border: none;
@@ -2547,6 +2547,7 @@
             right: 350px;
         }
 }
+
 
 
 

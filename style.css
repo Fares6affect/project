@@ -1466,7 +1466,6 @@
         transform: rotate(-14deg);
     }
     .header {
-        background-color:chocolate;
         position: relative;
         width: 100%;
         height: 650px;
@@ -1523,7 +1522,6 @@
     left: 0;
     width: 0;
     height: 2px;
-    background-color: red;
     transition: width 0.3s ease;
     }
 
@@ -1619,7 +1617,6 @@
         color: white;
     }
     .header_title{
-        background-color:red;
         width:506px;
         height:120px;
         color:white;
@@ -1638,11 +1635,9 @@
         gap:97px;
     }
     .header_content {
-        background-color:antiquewhite;
         margin:90px 100px 0 0;
         width:506px;
         height:306px;
-        /*background-color: yellow;*/
     }
     .header_content a{
         text-decoration:none;
@@ -1654,7 +1649,6 @@
         display:flex;
         justify-content:center;
         align-items:center;
-        /*background-color:forestgreen;*/
         border-style: solid;
         border-radius:10px;
         border-width:5px;
@@ -1666,7 +1660,6 @@
             background-color:red;
         }
         .header_text {
-            background-color: aqua;
             color: white;
             opacity: 80%;
             width: 486px;
@@ -1747,20 +1740,17 @@
 
 
     #services {
-        margin: 250px auto 0 auto;
+        margin: 0px auto 0 auto;
         width: 1082px;
         height:716px;
-        background-color: aquamarine;
     }
     .services_header{
-        background-color:forestgreen;
     }
     .section-header_title {
         color: rgba(5,12,51,1);
         font-weight: 700;
         line-height:100%;
         letter-spacing:0;
-        background-color: red;
         font-size: 42px;
         width: 580px;
         height: 153px;
@@ -1769,7 +1759,6 @@
     .section-header_subtitle {
         color: rgba(5,12,51,1);
         margin-top: 18px;
-        background-color: antiquewhite;
         font-size: 16px;
         line-height: 22px;
         letter-spacing: 0;
@@ -1798,10 +1787,8 @@
     .service-card {
         height: 194px;
         width: 182px;
-        background-color: palevioletred;
     }
     .service-card p {
-        background-color:burlywood;
         margin-top:25px;
         width: 182px;
         height: 66px;
@@ -1820,18 +1807,15 @@
         width: 100%;
         height:1438px;
         margin: 110px 0 0 0;
-        background-color: antiquewhite;
         position:relative;
     }
     .container_help{
         margin:0 auto 0 auto;
         width:1184px;
         height:747px;
-        background-color:brown;
     }
     .support_title {
         color:rgba(5,12,51,1);
-        background-color: gold;
         width: 406px;
         height:102px;
         margin:0 auto 0 auto;
@@ -1879,7 +1863,6 @@
         display:block;
         width:232px;
         height:15px;
-        background-color:cornflowerblue;
     }
     .support-card_title {
         color: rgba(5,12,51,1);
@@ -1890,7 +1873,6 @@
         font-size: 18px;
         line-height: 100%;
         letter-spacing: 0;
-        background-color: aquamarine;
     }
     .support-card_text {
         color: rgba(5,12,51,1);
@@ -1902,7 +1884,6 @@
         font-size: 18px;
         line-height: 22px;
         letter-spacing: 0;
-        background-color: blueviolet;
     }
     .support-card img {
         position: absolute;
@@ -1940,7 +1921,6 @@
         background: linear-gradient(to right, black, rgba(5,12,51,1));
     }
     .support_bottom-title {
-        background-color:red;
         width:480px;
         height:102px;
         font-weight:700;
@@ -1955,7 +1935,6 @@
         width:620px;
         gap:20px;
         height:300px;
-        background-color:aquamarine;
         display:flex;
         flex-direction:column;
     }
@@ -1974,7 +1953,6 @@
         letter-spacing:0;
         width: 257px;
         height: 88px;
-        background-color: rebeccapurple;
     }
     .support_item p{
         opacity:70%;
@@ -1994,7 +1972,6 @@
         overflow:hidden;
         top:921px;
         left:0px;
-        background-color:red;
     }
 
 
@@ -2022,7 +1999,6 @@
         background-color: aqua;
     }
     .plans_title {
-        background-color: gold;
         width: 580px;
         height:51px;
         text-align: center;
@@ -2030,7 +2006,6 @@
         margin: 0 auto 50px auto;
     }
     .plans_grid {
-        background-color: blueviolet;
         gap: 20px;
         width: 100%;
         margin: 0 auto;
@@ -2043,16 +2018,15 @@
         padding: 50px;
         box-sizing: border-box;
         border-radius:5px;
+        border:2px solid;
     }
     .plan-card1 {
         width: 390px;
         height: 625px;
-        background-color: burlywood;
     }
     .plan-card2 {
         width: 420px;
         height: 665px;
-        background-color: darkgreen;
     }
     .plan-card_title{
         font-size:25px;
@@ -2101,7 +2075,6 @@
     .custom-line {
         border: none;
         height: 2px;
-        background-color: grey;
         margin: 0 0 40px 0;
     }
     .plans_footer {
@@ -2119,7 +2092,6 @@
 
    .Case_conteiner{
        margin:160px auto 0 auto;
-       background-color:bisque;
        width:1180px;
        height:1656px;
    }
@@ -2127,7 +2099,6 @@
         font-size:42px;
         text-align:center;
         margin: 0 auto 0 auto;
-        background-color: gold;
         width: 413px;
         height: 51px;
     }
@@ -2146,7 +2117,6 @@
         cursor: pointer;
         height: 475px;
         width: 380px;
-        background-color: aquamarine;
         overflow: hidden;
     }
     .Case_grid11{
@@ -2170,7 +2140,6 @@
         font-size: 12px;
         font-weight: 500;
         line-height: 12px;
-        background-color: aqua;
     }
 
 
@@ -2181,7 +2150,6 @@
         height: 450px;
     }
     .team-header_title {
-        background-color: gold;
         width: 100%;
         text-align: center;
         font-size: 40px;
@@ -2191,7 +2159,6 @@
         width:175px;
     }
     .team-card_grid {
-        background-color: blueviolet;
         gap: 70px;
         width: 100%;
         margin: 0 auto;
@@ -2205,21 +2172,19 @@
     }
 
     .command {
-        background-color: aqua;
         height: 988px;
         width: 1080px;
         margin: 0 auto;
     }
     .command-header_title {
         color: rgba(5,12,51,1);
-        background-color: gold;
         width: 100%;
         height:51px;
         text-align: center;
         font-size: 42px;
     }
     .command_grid {
-        background-color:blue;
+
         margin: 80px 0 0 0;
         display: flex;
         flex-direction: column;
@@ -2228,7 +2193,6 @@
     .command-card {
         height: 379px;
         width: 280px;
-        background-color: palevioletred;
     }
     .command-card123, .command-card456 {
         display: flex;
@@ -2266,16 +2230,14 @@
 
     .Reviews_conteiner{
         margin: 160px auto 0 auto;
-        height:586px;
+        height:590px;
         width:100%;
-        background-color:antiquewhite;
     }
     .Reviews_title{
         align-content:center;
         text-align:center;
         width:180px;
         height:51px;
-        background-color:red;
         margin:0 auto 0 auto;
         font-size:42px;
         font-weight:700;
@@ -2287,7 +2249,7 @@
         margin: 119px auto 0 auto;
         width: 980px;
         height: 416px;
-        background-color: aquamarine;
+        border: 2px solid;
     }
 
 
@@ -2316,7 +2278,6 @@
         display:flex;
         flex-direction:column;
         margin:67px 67px;
-        background-color:khaki;
         height:282px;
         width:500px;
         gap:10px;
@@ -2347,7 +2308,6 @@
 
     }
     .review-card__nav {
-        background-color:peru;
         width:206px;
         height:32px;
         margin: auto;
@@ -2368,7 +2328,6 @@
         height:28px;
         font-size:28px;
         width: 82px;
-        background-color: darkslategrey;
     }
     .review-card__arrow--prev{
         margin:0 24px 0 0;
@@ -2383,7 +2342,6 @@
 
     .company {
         height: 477px;
-        background-color: rebeccapurple;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -2392,7 +2350,6 @@
 
     .company-header_title {
         color:rgba(5,12,51,1);
-        background-color: gold;
         width: auto;
         height:51px;
         text-align: center;
@@ -2416,11 +2373,9 @@
         right:145px;
         width: 100%;
         height: 155px;
-        background-color: aqua;
         margin: 0 0 20px 0;
     }
     .company_grid2 {
-        background-color: aqua;
         height: 155px;
         width: 100%;
     }
@@ -2487,7 +2442,6 @@
     .form_text {
         height: 439px;
         width: 480px;
-        background-color: purple;
         display: flex;
         flex-direction: column;
         gap: 20px;

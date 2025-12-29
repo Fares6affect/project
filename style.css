@@ -1000,7 +1000,7 @@ html {
         visibility: hidden;
         transition: all 0.5s ease;
         z-index: 1;
-        position:relative;
+        position:absolute;
         left:100px;
         display: flex;
         flex-direction: column;
@@ -2559,6 +2559,7 @@ html {
             right: 350px;
         }
 }
+
 
 
 

@@ -62,7 +62,6 @@
     }
 
     .header_title {
-        background-color: red;
         color: white;
         font-size: 42px;
         line-height: 50px;
@@ -72,7 +71,6 @@
     }
 
     .header_text {
-        background-color: aqua;
         color: white;
         opacity: 80%;
         width: 486px;
@@ -1255,7 +1253,6 @@
         margin: 0 auto; 
         z-index: 110;
         height: 360px;
-        background-color: purple;
         display: flex;
         flex-direction: column;
         gap: 10px;
@@ -1303,7 +1300,6 @@
         text-decoration: none;
     }
     .form-contact {
-        background-color:aqua;
         max-width: 700px;
         width: 90%;
         margin: 0 auto;
@@ -2557,6 +2553,7 @@
             right: 350px;
         }
 }
+
 
 
 

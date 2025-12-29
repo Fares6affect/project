@@ -488,6 +488,7 @@ html {
     }
 
     .support_info {
+        overflow:visible;
         margin: 0 auto 0 auto;
         position: relative;
         right: 20px;
@@ -2558,6 +2559,7 @@ html {
             right: 350px;
         }
 }
+
 
 
 

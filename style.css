@@ -2528,7 +2528,7 @@ html {
         overflow:visible;
         margin: 0 auto 0 auto;
     }
-    .form_form a{
+    .form_form button{
         text-decoration:none;
     }
     .form_a_div {
@@ -2559,6 +2559,7 @@ html {
             right: 350px;
         }
 }
+
 
 
 

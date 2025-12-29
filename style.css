@@ -2042,6 +2042,7 @@
         justify-content: center;
         border:2px solid red;
         color:red;
+        margin-top:20px;
     }
     .plan-card_a div:hover {
         color: white;
@@ -2054,7 +2055,6 @@
     .custom-line {
         border-color:grey;
         border: 2px solid;
-        height: 2px;
         margin: 0 0 20px 0;
     }
     .plans_footer {
@@ -2558,6 +2558,7 @@
             right: 350px;
         }
 }
+
 
 
 

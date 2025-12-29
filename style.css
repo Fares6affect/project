@@ -2529,10 +2529,10 @@
         overflow:visible;
         margin: 0 auto 0 auto;
     }
-    .form_form button{
+    .form_form a{
         text-decoration:none;
     }
-    .form_button_div {
+    .form_a_div {
         margin:0 auto 0 auto;
         width: 480px;
         height: 60px;
@@ -2543,7 +2543,7 @@
         border-radius:10px;
         color:red;
     }
-    .form_button_div:hover {
+    .form_a_div:hover {
         color: white;
         background-color: red;
     }
@@ -2560,6 +2560,7 @@
             right: 350px;
         }
 }
+
 
 
 

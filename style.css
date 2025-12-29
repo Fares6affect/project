@@ -12,6 +12,7 @@
     * {
         box-sizing: border-box;
         max-width: 100%;
+        width:600px;
     }
     video {
         width: 100%;
@@ -2559,6 +2560,7 @@
             right: 350px;
         }
 }
+
 
 
 
